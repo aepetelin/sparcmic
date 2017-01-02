@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkmics.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkmics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkmics_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkmics_main.iml" group="sparkmics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkmics_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkmics_test.iml" group="sparkmics" />
+    </modules>
+  </component>
+</project>
